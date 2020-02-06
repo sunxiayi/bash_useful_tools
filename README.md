@@ -1,4 +1,6 @@
-# Useful Bash Tools - 在
+# Useful Bash Tools
+在terminal中输入以下command
+
 ### Command: ts
 Usage: ts pear
 
